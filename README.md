@@ -11,7 +11,7 @@
       NEXT_PUBLIC_APP_URL=http://localhost:3000
       NEXT_PUBLIC_APP_SERVER_URL=http://1031107-ca41138.tmweb.ru:4200
       NEXT_PUBLIC_APP_ENV=production
-4) yarn
+4) yarn install
 5) yarn build
 6) yarn start
 ```
