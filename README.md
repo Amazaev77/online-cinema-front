@@ -1,3 +1,7 @@
+### Есть [демо](188.225.42.205:3000).
+
+#### Технологии: React, Typescript, Redux Toolkit, Nextjs, Draft js, React-Query, React-Hook-Form ...
+
 ### Команды запуска:
 
 ```bash
