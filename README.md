@@ -1,4 +1,4 @@
-### Есть [демо](188.225.42.205:3000).
+### Есть [демо](http://188.225.42.205:3000/).
 
 #### Технологии: React, Typescript, Redux Toolkit, Nextjs, Draft js, React-Query, React-Hook-Form ...
 
