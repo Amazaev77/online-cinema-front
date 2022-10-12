@@ -11,11 +11,11 @@ const nextConfig = {
 		return [
 			{
 				source: '/api/:path*',
-				destination: 'http://1031107-ca41138.tmweb.ru:4200/api/:path*',
+				destination: `${process.env.NEXT_PUBLIC_APP_SERVER_URL}/api/:path*`,
 			},
 			{
 				source: '/uploads/:path*',
-				destination: 'http://1031107-ca41138.tmweb.ru:4200/uploads/:path*',
+				destination: `${process.env.NEXT_PUBLIC_APP_SERVER_URL}/uploads/:path*`,
 			},
 		]
 	},
