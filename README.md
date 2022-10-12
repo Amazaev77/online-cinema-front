@@ -9,7 +9,7 @@
 2) cd online-cinema-front
 3) создать файл .env в корневой папке и скопировать в него:
       NEXT_PUBLIC_APP_URL=http://localhost:3000
-      NEXT_PUBLIC_APP_SERVER_URL=http://1031107-ca41138.tmweb.ru:4200
+      NEXT_PUBLIC_APP_SERVER_URL=http://online-cinema-m.tk:4200
       NEXT_PUBLIC_APP_ENV=production
 4) yarn install
 5) yarn build
