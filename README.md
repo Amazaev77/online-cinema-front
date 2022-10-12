@@ -1,4 +1,4 @@
-### [Демо](http://188.225.42.205/).
+### [Демо](http://online-cinema-m.tk).
 
 #### Технологии: React, Typescript, Nextjs, Redux Toolkit, Draft js, React-Query, React-Hook-Form ...
 
